@@ -1,0 +1,14 @@
+Flask==2.2.5
+Flask-Cors==3.0.10
+numpy==1.26.2
+pandas==2.2.2
+scikit-learn==1.3.2
+scipy==1.11.2
+joblib==1.3.2
+python-dateutil==2.8.2
+pytz==2023.3
+gunicorn==20.1.0
+
+# Note: These are updated to work with Python 3.12.
+# If the model `flight_rf.pkl` was serialized with an older scikit-learn
+# version, loading may fail. If you need exact reproduction, use Python 3.8/3.9.
