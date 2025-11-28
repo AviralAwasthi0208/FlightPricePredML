@@ -1,7 +1,8 @@
 # Flight Fare Prediction: 
 <img width="1347" height="631" alt="image" src="https://github.com/user-attachments/assets/ea2e7f11-b523-4618-9510-76d385668a61" />
 
-<img width="1346" height="524" alt="image" src="https://github.com/user-attachments/assets/e07a8913-2e0a-49b6-bb59-b8a2df3f0f1a" />
+<img width="1347" height="631" alt="image" src="https://github.com/user-attachments/assets/78ec3ae7-635e-4f26-acc8-53c1755eedeb" />
+
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
