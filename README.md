@@ -1,7 +1,8 @@
 # Flight Fare Prediction: 
 <img width="1347" height="631" alt="image" src="https://github.com/user-attachments/assets/ea2e7f11-b523-4618-9510-76d385668a61" />
 
-<img width="1347" height="631" alt="image" src="https://github.com/user-attachments/assets/78ec3ae7-635e-4f26-acc8-53c1755eedeb" />
+<img width="1346" height="482" alt="flp2" src="https://github.com/user-attachments/assets/ce1b3d9d-13fb-41a5-8f10-5c8418c7d055" />
+
 
 
 ## Overview
